@@ -57,3 +57,6 @@
 
 # Embedded web-server pid file
 /.web-server-pid
+
+# JetBrains .idea folder exclude, yes even project files until they fix the absolute path bugs
+.idea
