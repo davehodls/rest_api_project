@@ -16,6 +16,13 @@
 !var/sessions/.gitkeep
 
 # Logs (Symfony4)
+###> symfony/framework-bundle ###
+/.env.local
+/.env.local.php
+/.env.*.local
+/config/secrets/prod/prod.decrypt.private.php
+/public/bundles/
+/var/
 /var/log/*
 !var/log/.gitkeep
 
